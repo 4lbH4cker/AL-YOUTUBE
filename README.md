@@ -19,7 +19,7 @@
 2️⃣ Pasi instalimi të përfundojë, thjesht dyklikoni në **al_youtube.py** për të nisur aplikacionin.
 
 
-or
+ose
 
 ✅ Hapni al_youtube.exe (⚠️ Mund të bllokohet nga antivirusi, por është i sigurtë!)
 
