@@ -1,5 +1,8 @@
 # AL-YOUTUBE Music Downloader
 
+![image]([https://github.com/user-attachments/assets/81b68207-15b7-40da-99d9-47bbd5c91dd6](https://github.com/4lbH4cker/AL-YOUTUBE/blob/main/alyt.png?raw=true))
+
+
 **AL-YOUTUBE** është një aplikacion i thjeshtë dhe i fuqishëm për shkarkimin e muzikës nga YouTube. Ky program përdor **yt-dlp** për të shkarkuar skedarët audio dhe ofron një përvojë të shpejtë dhe të lehtë për përdoruesit.
 
 ## 🎵 Karakteristikat
