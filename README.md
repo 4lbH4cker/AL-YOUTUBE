@@ -44,3 +44,13 @@
 
 **install.bat** does not contain any viruses or malware. However, some antivirus programs may flag it as suspicious due to the way it downloads and executes dependencies. If blocked, you can manually allow it or run the commands in the terminal.
 
+We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
+
+
+# Warning
+
+We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
+
+
+❤️ Support me:
+https://www.paypal.me/Relvllahi
