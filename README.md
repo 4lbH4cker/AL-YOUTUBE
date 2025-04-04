@@ -1,6 +1,6 @@
 # AL-YOUTUBE Music Downloader
-https://github.com/4lbH4cker/AL-YOUTUBE/blob/main/alyt.png?raw=true
-(![image](https://raw.githubusercontent.com/4lbH4cker/AL-YOUTUBE/blob/main/alyt.png))
+
+
 (![image](https://raw.githubusercontent.com/4lbH4cker/AL-YOUTUBE/main/alyt.png)
 
 
