@@ -18,6 +18,11 @@
 1️⃣ Hap **install.bat** dhe gjithçka do të instalohet automatikisht me një klikim! (⚠️ Mund të bllokohet nga antivirusi, por është i sigurtë!)
 2️⃣ Pasi instalimi të përfundojë, thjesht dyklikoni në **al_youtube.py** për të nisur aplikacionin.
 
+
+or
+
+✅ Hapni al_youtube.exe (⚠️ Mund të bllokohet nga antivirusi, por është i sigurtë!)
+
 ## 🔒 Siguria
 
 **install.bat** nuk përmban asnjë virus apo malware. Disa antiviruse mund ta sinjalizojnë atë si të dyshimtë për shkak të mënyrës se si shkarkon dhe ekzekuton varësitë. Nëse bllokohet, mund ta lejoni manualisht ose të ekzekutoni komandat në terminal.
@@ -39,6 +44,10 @@
 
 1️⃣ Run **install.bat**, and everything will be installed automatically with one click! (⚠️ Your antivirus may block it, but it is safe!) 
 2️⃣ Once the installation is complete, simply double-click **al_youtube.py** to start the application.
+
+or
+
+✅ Open al_youtube.exe (⚠️ Your antivirus may block it, but it is safe!)
 
 ## 🔒 Security
 
