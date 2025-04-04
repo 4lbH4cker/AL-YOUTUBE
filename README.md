@@ -27,6 +27,10 @@ ose
 
 **install.bat** nuk përmban asnjë virus apo malware. Disa antiviruse mund ta sinjalizojnë atë si të dyshimtë për shkak të mënyrës se si shkarkon dhe ekzekuton varësitë. Nëse bllokohet, mund ta lejoni manualisht ose të ekzekutoni komandat në terminal.
 
+
+# ⚠️ Paralajmërim
+
+Nuk jam përgjegjës për ndonjë keqpërdorim ose dëmtim të shkaktuar nga ky program. Përdoreni këtë mjet në rrezikun tuaj!
 ---
 
 # AL-YOUTUBE Music Downloader (English)
@@ -49,11 +53,10 @@ or
 
 ✅ Open al_youtube.exe (⚠️ Your antivirus may block it, but it is safe!)
 
+
 ## 🔒 Security
 
 **install.bat** does not contain any viruses or malware. However, some antivirus programs may flag it as suspicious due to the way it downloads and executes dependencies. If blocked, you can manually allow it or run the commands in the terminal.
-
-We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
 
 
 # ⚠️ Warning
