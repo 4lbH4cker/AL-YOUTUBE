@@ -47,7 +47,7 @@
 We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
 
 
-# Warning
+# ⚠️ Warning
 
 We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
 
